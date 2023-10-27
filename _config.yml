@@ -1,0 +1,11 @@
+# basic options
+title: Gary's test site with css and js
+author: Gary G.
+email: gtg@rh-sys.com
+description: A very mediocre test site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: minima
